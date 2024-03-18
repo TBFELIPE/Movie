@@ -26,6 +26,5 @@ In both scripts, this was the steps made to achieve the final result:
 * Create and Plot Bar Chart
 ## Authors
 
-- [@Salum28](https://github.com/Salum28)
-- [@TBFELIPE](https://github.com/TBFELIPE)
+- [@simionattovini](https://github.com/simionattovini)
 
