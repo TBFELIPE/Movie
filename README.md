@@ -27,4 +27,7 @@ In both scripts, this was the steps made to achieve the final result:
 ## Authors
 
 - [@simionattovini](https://github.com/simionattovini)
+- [@TBFELIPE](https://github.com/TBFELIPE)
+- [Salum28](https://github.com/Salum28)
+
 
